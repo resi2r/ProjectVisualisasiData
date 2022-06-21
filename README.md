@@ -15,11 +15,11 @@
 
 ## B.	Tujuan
 <p align='justify'>&nbsp; &nbsp; &nbsp;Adapun tujuan dari penelitian ini sebagai berikut.
-1.	Menghasilkan dashboard informatif data perikanan di Indonesia
-2.	Menghasilkan sebuah peta interaktif untuk melihat sebaran  produksi perikanan di Indonesia berdasarkan provinsi dan  jenis usaha di sektor perikanan.
-3.	Menghasilkan sebuah peta interaktif untuk melihat sebaran nelayan di Indonesia berdasarkan provinsi dan  jenis usaha di sektor perikanan.
-4.	Menghasilkan visualisasi untuk melihat kondisi perikanan dari sisi ekonomi, dimana pada penelitian ini diambil dari dimensi ekspor dan PDB.
-5.	Menghasilkan visualisasi untuk melihat gambaran mengenai sarana yang digunakan di sektor perikanan, dimana pada penelitian ini dilihat dari jenis kapal yang digunakan.</p>
+<br/>1.	Menghasilkan dashboard informatif data perikanan di Indonesia
+<br/>2.	Menghasilkan sebuah peta interaktif untuk melihat sebaran  produksi perikanan di Indonesia berdasarkan provinsi dan  jenis usaha di sektor perikanan.
+<br/>3.	Menghasilkan sebuah peta interaktif untuk melihat sebaran nelayan di Indonesia berdasarkan provinsi dan  jenis usaha di sektor perikanan.
+<br/>4.	Menghasilkan visualisasi untuk melihat kondisi perikanan dari sisi ekonomi, dimana pada penelitian ini diambil dari dimensi ekspor dan PDB.
+<br/>5.	Menghasilkan visualisasi untuk melihat gambaran mengenai sarana yang digunakan di sektor perikanan, dimana pada penelitian ini dilihat dari jenis kapal yang digunakan.</p>
 
 ## C.	Literatur yang Mendukung
 <p align='justify'>&nbsp; &nbsp; &nbsp;Pada tahun 2013, M. Zulkarnain, Pudji Purwanti, dan Erlinda Indrayani telah melakukan penelitian dengan judul Analisis Pengaruh Nilai Produksi Perikanan Budidaya terhadap Produk Domestik Bruto Sektor Perikanan di Indonesia. Penelitian ini bertujuan untuk mengetahui pengaruh secara parsial dan simultan dominan dari nilai produksi perikanan budidaya terhadap Perikanan Produk Domestik sektor perikanan di Indonesia. Hasil penelitian ini menunjukkan bahwa nilai produksi perikanan budidaya secara bersama-sama mempengaruhi PDB sektor perikanan di Indonesia, nilai produksi perikanan sebagian mempengaruhi Produk Domestik Bruto sektor perikanan di Indonesia. Budidaya Laut memiliki efek paling dominan terhadap Produk Domestik Bruto dari sektor perikanan di Indonesia dan diikuti budidaya kolam dan budidaya tanggul. Adapun kolam budidaya memiliki nilai negatif.
