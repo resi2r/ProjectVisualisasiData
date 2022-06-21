@@ -1,5 +1,11 @@
 <h1 align='center'>Dashboard Sektor Perikanan Indonesia</h1>
 <br></br>
+
+**<p align='justify'>Ringkasan— Sebagian besar wilayah Indonesia terdiri dari perairan. Maka dari itu, sektor perikanan merupakan salah satu sektor yang berperan penting dalam perekonomian nasional. Pada penelitian ini akan dibangun sebuah dashboard informatif untuk memvisualisasikan data di sektor perikanan di Indonesia. Pada penelitian ini digunakan lima  variabel yaitu produksi ikan, jumlah nelayan, ekspor perikanan, PDB, dan  jumlah kapal penangkap ikan. Jenis grafik yang digunakan ialah peta interaktif, diagram batang, diagram garis, dan diagram lingkaran. Khusus untuk peta dibuat bersifat interaktif bertujuan untuk menampilkan informasi secara detail untuk setiap provinsi. Dari hasil visualisasi diperoleh informasi bahwa  produksi perikanan tertinggi berada di provinsi Sulawesi Selatan.
+<br/>Kata Kunci— produksi perikanan, nelayan, visualisasi, PDB, ekspor</p>**
+
+
+
 <h2 align='center'>I.	PENDAHULUAN</h2>
 
 ## A.	Latar Belakang
